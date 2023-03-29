@@ -1,7 +1,8 @@
 import './hello.css';
 
 function Hello() {
-  return <h1 className='logo'>hello!</h1>;
+  console.log('hi! ^-^');
+  return <h1 className='hello'>hello!</h1>;
 }
 
 export default Hello;
